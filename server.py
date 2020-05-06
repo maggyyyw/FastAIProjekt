@@ -17,7 +17,7 @@ export_file_name = 'export.pkl'
 classes = ['bald_uakari',
  'japanese_macaque',
  'mantled_howler',
- 'n5',
+ 'white_headed_capuchin',
  'n6',
  'patas_monkey',
  'pygmy_marmoset']
